@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a Taipei Real Project (*more soon* !)
 - 🌱 I’m currently digging more on MLOps
 - 🍕 Pizzaiolo & Beer Homebrewer  
-- 📫 Reach by [gabrieltruong@epfedu.fr](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gabrieltruong)
+- 📫 Reach me at [gabrieltruong@epfedu.fr](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gabrieltruong)
 
 ## Skills
 <p align="left"> 
