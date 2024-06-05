@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a project with @rizerkrof (*more soon* !)
 - 🌱 I’m currently digging more on MLOps
 - 🍕 Pizzaiolo & Beer Homebrewer  
-- 📫 Reach me at [gabrieltruong@epfedu.fr](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gabrieltruong)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/gabrieltruong)
 
 ## Skills
 <p align="left"> 
